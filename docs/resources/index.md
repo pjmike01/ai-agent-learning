@@ -74,6 +74,16 @@
   tags="['官方', '实践']"
 />
 
+## Harness Engineering
+
+<ResourceCard
+  title="Learn Harness Engineering"
+  source="WalkingLabs"
+  desc="Harness 工程实践系统化学习，涵盖 Harness 平台架构、CI/CD 管线设计与工程最佳实践。"
+  url="https://walkinglabs.github.io/learn-harness-engineering/zh/"
+  tags="['Harness', '工程实践']"
+/>
+
 ## 相关技术栈
 
 <ResourceCard
