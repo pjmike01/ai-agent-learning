@@ -20,6 +20,14 @@
   tags="['架构', '深度']"
 />
 
+<ResourceCard
+  title="你不知道的 Claude Code：架构、治理与工程实践"
+  source="tw93"
+  desc="用六层架构框架系统讲解如何高效使用 Claude Code，涵盖上下文管理、工具设计、权限控制、任务隔离与验证闭环，强调验证标准与隔离设计的重要性。"
+  url="https://tw93.fun/2026-03-12/claude.html"
+  tags="['架构', '工程实践']"
+/>
+
 ## AI Agent 设计模式
 
 <ResourceCard
@@ -28,6 +36,14 @@
   desc="Anthropic 官方的 Agent 构建指南，介绍 Agent 循环、工具使用、上下文管理的最佳实践。"
   url="https://docs.anthropic.com/en/docs/build-with-claude/agentic"
   tags="['Agent', '设计模式']"
+/>
+
+<ResourceCard
+  title="你不知道的 Agent：原理、架构与工程实践"
+  source="tw93"
+  desc="系统阐述如何通过 Harness 基础设施、上下文分层、工具设计、记忆整合与多 Agent 组织等工程实践，让 AI Agent 稳定高效地运行。"
+  url="https://tw93.fun/2026-03-21/agent.html"
+  tags="['Agent', '工程实践']"
 />
 
 <ResourceCard
